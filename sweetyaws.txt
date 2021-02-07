@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sweety also started learning aws with my sugg
 estion
+=======
+sweety also learning aws n devops
+>>>>>>> devops
